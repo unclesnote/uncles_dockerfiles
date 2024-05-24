@@ -26,7 +26,7 @@ docker rmi $MY_DOCKER_IMG
 //================================================================
 //                          configuration
 //================================================================
-Once you have created container from image, do below
+Once you have created container from image then attached container, do below
 
 //---------------------------------------
     1. locale configuration
