@@ -38,6 +38,10 @@ $ sudo dpkg-reconfigure tzdata
 //---------------------------------------
 $ mysql --version
 
+    # /////////////////
+    mysql  Ver 8.0.36-0ubuntu0.22.04.1 for Linux on x86_64 ((Ubuntu))
+    # /////////////////
+
 $ vim /etc/mysql/mysql.conf.d/mysqld.cnf
 
     # /////////////////
