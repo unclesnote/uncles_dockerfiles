@@ -1,5 +1,5 @@
 # Clone
-git clone https://<personal access token>@github.com/unclesnote/uncles_dockerfiles.git
+git clone https://`personal access token`@github.com/unclesnote/uncles_dockerfiles.git
 
 # First Commit
 ```
